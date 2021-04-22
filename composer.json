@@ -15,7 +15,8 @@
     ],
     "require": {
         "pantheon-upstreams/upstream-configuration": "*",
-        "drush/drush": "^10"
+        "drush/drush": "^10",
+        "drupal/core-recommended": "^8.8"
     },
     "conflict": {
             "drupal/drupal": "*"
